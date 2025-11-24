@@ -15,7 +15,7 @@ Admin Features
     📅 Show Scheduling - Create and manage movie shows
     👥 User Management - View and manage registered users
     📈 Analytics Dashboard - Real-time insights on bookings and revenue
-    🗑️ Booking Management - View and manage all bookings
+    🗑️ Booking Management - View and manage all bookings 
     
 🛠 Tech Stack
 Frontend
